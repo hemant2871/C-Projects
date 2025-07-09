@@ -82,4 +82,4 @@ More interesting logic-based mini projects...
 
 ##📧 Contact
 Created with 💻 by Hemant Sharma
-📫 Reach out via [LinkedIn](www.linkedin.com/in/hemant-sharma-3135b4290) or [GitHub](https://github.com/hemant2871)
+📫 Reach out via [LinkedIn](www.linkedin.com/in/hemant-sharma-3135b4290) or [GitHub](https://github.com/hemant2871) 
