@@ -51,23 +51,23 @@ int main() {
 }
 
 ```
-##🛠 How to Run
-#Clone this repository
+## 🛠 How to Run
+# Clone this repository
 ```
 git clone https://github.com/hemant2871/c-projects.git
 cd c-projects
 ```
 
-#Compile the code
+# Compile the code
 ```
 gcc calculator.c -o calculator
 ```
-#Run the program
+# Run the program
 
 ```
 ./calculator
 ```
-##📂 Upcoming Projects
+## 📂 Upcoming Projects
 1.Number Guessing Game
 
 2.Armstrong Number Checker
