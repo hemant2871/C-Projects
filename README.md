@@ -52,13 +52,13 @@ int main() {
 
 ```
 ## 🛠 How to Run
-# Clone this repository
+### Clone this repository
 ```
 git clone https://github.com/hemant2871/c-projects.git
 cd c-projects
 ```
 
-# Compile the code
+### Compile the code
 ```
 gcc calculator.c -o calculator
 ```
@@ -80,6 +80,6 @@ gcc calculator.c -o calculator
 
 More interesting logic-based mini projects...
 
-##📧 Contact
+## 📧 Contact
 Created with 💻 by Hemant Sharma
 📫 Reach out via [LinkedIn](www.linkedin.com/in/hemant-sharma-3135b4290) or [GitHub](https://github.com/hemant2871) 
