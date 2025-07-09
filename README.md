@@ -50,39 +50,36 @@ int main() {
     return 0;
 }
 
-🛠 How to Run
-Clone this repository
-
-bash
-Copy
-Edit
-git clone https://github.com/<your-username>/c-projects.git
+```
+##🛠 How to Run
+#Clone this repository
+```
+git clone https://github.com/hemant2871/c-projects.git
 cd c-projects
-Compile the code
+```
 
-bash
-Copy
-Edit
+#Compile the code
+```
 gcc calculator.c -o calculator
-Run the program
+```
+#Run the program
 
-bash
-Copy
-Edit
+```
 ./calculator
-📂 Upcoming Projects
-Number Guessing Game
+```
+##📂 Upcoming Projects
+1.Number Guessing Game
 
-Armstrong Number Checker
+2.Armstrong Number Checker
 
-Prime Number Generator
+3.Prime Number Generator
 
-Pattern Printing
+4.Pattern Printing
 
-Tic-Tac-Toe in C (console)
+5.Tic-Tac-Toe in C (console)
 
 More interesting logic-based mini projects...
 
-📧 Contact
+##📧 Contact
 Created with 💻 by Hemant Sharma
-📫 Reach out via LinkedIn or GitHub
+📫 Reach out via [LinkedIn](www.linkedin.com/in/hemant-sharma-3135b4290) or [GitHub](https://github.com/hemant2871)
