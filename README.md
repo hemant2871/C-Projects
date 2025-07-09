@@ -49,3 +49,40 @@ int main() {
 
     return 0;
 }
+
+🛠 How to Run
+Clone this repository
+
+bash
+Copy
+Edit
+git clone https://github.com/<your-username>/c-projects.git
+cd c-projects
+Compile the code
+
+bash
+Copy
+Edit
+gcc calculator.c -o calculator
+Run the program
+
+bash
+Copy
+Edit
+./calculator
+📂 Upcoming Projects
+Number Guessing Game
+
+Armstrong Number Checker
+
+Prime Number Generator
+
+Pattern Printing
+
+Tic-Tac-Toe in C (console)
+
+More interesting logic-based mini projects...
+
+📧 Contact
+Created with 💻 by Hemant Sharma
+📫 Reach out via LinkedIn or GitHub
